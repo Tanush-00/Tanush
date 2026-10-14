@@ -1,10 +1,14 @@
-Hi, I'm Tanush Agarwal, a final-year B.Tech CSE student. I work on data science, NLP and SQL.
+# Hi, I'm Tanush Agarwal
 
-## Projects
+Final-year B.Tech CSE student (graduating 2027), building projects in data analytics, machine learning and NLP.
 
-- **RAG assistant:** semantic search over video transcripts
-- **People You May Know:** recommendation engine
-- **Sales analysis:** SQL and EDA in PostgreSQL
-- **Social media analytics:** data cleaning and trends
+**Looking for:** Data Analyst · Data Science · AI/ML internships and entry-level roles
 
-[LinkedIn](https://www.linkedin.com/in/tanush-agarwal-666798321)
+## Skills
+- **Analysis:** SQL (PostgreSQL), Python (Pandas, NumPy), Excel
+- **BI:** Power BI (DAX)
+- **ML / AI:** NLP, RAG, embeddings, recommendation systems
+- **Tools:** Git, Jupyter, VS Code
+
+## Connect
+[LinkedIn]www.linkedin.com/in/tanush-agarwal-
