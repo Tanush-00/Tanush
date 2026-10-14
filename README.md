@@ -11,4 +11,4 @@ Final-year B.Tech CSE student (graduating 2027), building projects in data analy
 - **Tools:** Git, Jupyter, VS Code
 
 ## Connect
-[LinkedIn]www.linkedin.com/in/tanush-agarwal-
+[LinkedIn](https://www.linkedin.com/in/tanush-agarwal-)
